@@ -1,0 +1,13 @@
+/target/
+/logs/
+__pycache__/
+.env
+.env.*
+*.log
+/기존연결선택.png
+/대신증권로그인.png
+/사인온에러.png
+/서버IP읽기실패.png
+/서버읽기실패2.png
+/스크린샷 2026-10-25 145755.png
+
